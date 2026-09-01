@@ -1,4 +1,6 @@
-# CPE106L-4: Laboratory Activity 6 - Relational Database Implementation and SQL Modeling
+# CPE106L-4: Laboratory Activity 6 - OpenGauss*
+
+*since OpenGauss is not available, SQL was instead used.
 
 ## Project Overview
 
